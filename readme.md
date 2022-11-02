@@ -1,9 +1,10 @@
 # alOtroLadoDelScriptKiddy
 
-script para explicar el proyecto de al otro lado sin tematicas muy avanzadas proyecto original [aqui](https://github.com/jero98772/AlOtroLado)
+script para explicar el proyecto de AlOtroLado sin tematicas muy avanzadas 
+
+proyecto original [aqui](https://github.com/jero98772/AlOtroLado)
 
 proyecto desplegado [aqui](https://alotrolado.herokuapp.com/)
-
 
 
 ![logo](https://github.com/entifais/ST0245-Plantilla/blob/master/proyecto/codigo/alOtroLado/misc/img/logo1.png?raw=true)
