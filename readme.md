@@ -72,6 +72,11 @@ ganador de inevntiva eafit 2022-1
 ![premio](https://raw.githubusercontent.com/jero98772/AlOtroLado/main/misc/img/premio.jpeg)
 
 ### Screenshots
+
+![1](https://raw.githubusercontent.com/jero98772/alOtroLadoDelScriptKiddy/main/misc/1.png)
+
+### Screenshots del proyecto original
+
 ![map1](https://github.com/entifais/ST0245-Plantilla/blob/master/proyecto/codigo/alOtroLado/misc/img/2022-02-23-112022_1920x1080_scrot.png?raw=true)
 ![mapdj](https://github.com/entifais/ST0245-Plantilla/blob/master/proyecto/codigo/alOtroLado/misc/img/dijistra_ok.jpg?raw=true)
 ![heatmap](https://github.com/entifais/ST0245-Plantilla/blob/master/proyecto/codigo/alOtroLado/misc/img/photo1649630597.jpeg?raw=true)
